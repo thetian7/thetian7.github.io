@@ -245,6 +245,11 @@ ul{
     margin: 2.5rem 0;
 }
 
+.factory-content > img {
+    width: 70.55vw;
+    max-width: 1016px;
+}
+
 .factory-content > .header.white {
     margin-top: 130px;
     color: #FFF;
